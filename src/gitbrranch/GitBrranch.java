@@ -12,7 +12,7 @@ public class GitBrranch {
 
     private int fv() {
         System.out.println("nemst");
-        return 0;
+        return -1;
         //
     }
     
